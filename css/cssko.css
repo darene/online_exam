@@ -1,0 +1,22 @@
+.column{
+	float: left;
+	margin-left: 50px;
+	margin-top: 50px;
+}
+.well1{
+	height: 90px;
+	font-family: tolkien;
+	font-size: 30px;
+	color: orange;
+}
+.login_column{
+	float: right;
+	margin-top: 50px;
+}
+.column{
+	font-family: century gothic;
+	font-size: 70px;
+}
+body{
+	background-color: C0C0C0;
+}
